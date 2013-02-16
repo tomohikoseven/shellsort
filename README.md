@@ -4,8 +4,8 @@
 # ファイル概要
  main.c         シェルソートを使った整列を行う。  
  shellsort.c    シェルソート本体  
- shellsort.h    シェルソートヘッダ
- common.c       文字列（数値 )から整数への変換
+ shellsort.h    シェルソートヘッダ  
+ common.c       文字列（数値 )から整数への変換  
                 配列の表示を行う。  
  dgb_print.h    デバッグ用
 
